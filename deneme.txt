@@ -1,2 +1,4 @@
 Merhaba nasılsınız?
 sağol iyiyim
+sen nasılsın
+bende iyiyim
